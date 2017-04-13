@@ -5,11 +5,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# front-end
-/web/node_modules
-/web/e2e/*.js
-/e2e/*.map
-
 # System Files
 .DS_Store
 Thumbs.db
